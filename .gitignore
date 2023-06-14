@@ -5,4 +5,5 @@ install.sh
 .classpath1
 .project1
 node_module1/
+.test.sc
 

@@ -1,3 +1,0 @@
- this is a database file. no
-
-now i am updating sql file....
